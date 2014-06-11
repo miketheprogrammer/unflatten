@@ -22,11 +22,11 @@
   "author": "Michael Hernandez -- michael.hernandez1988@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "debug": "~0.8.1",
     "xtend": "^3.0.0"
   },
   "keywords": "flat, objects, unflatten, flatten, revive",
   "devDependencies": {
-    "debug": "~0.8.1",
     "tape": "^2.13.1"
   }
 }
